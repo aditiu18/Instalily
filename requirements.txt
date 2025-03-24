@@ -1,0 +1,7 @@
+bs4
+selenium
+requests
+pandas
+openai
+streamlit
+tqdm
